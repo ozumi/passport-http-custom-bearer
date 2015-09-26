@@ -1,7 +1,7 @@
 {
   "name": "passport-http-custom-bearer",
   "version": "1.0.0",
-  "description": "HTTP Bearer authentication strategy for Passport.",
+  "description": "HTTP Bearer authentication strategy using custom headers and field names for Passport.  Forked from https://github.com/jaredhanson/passport-http-bearer.",
   "keywords": [
     "passport",
     "auth",
