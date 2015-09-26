@@ -1,6 +1,6 @@
 {
-  "name": "passport-http-bearer",
-  "version": "1.0.1",
+  "name": "passport-http-custom-bearer",
+  "version": "1.0.0",
   "description": "HTTP Bearer authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -16,15 +16,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-http-bearer.git"
+    "url": "git://github.com/wwwslinger/passport-http-custom-bearer.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-http-bearer/issues"
+    "url": "http://github.com/wwwslinger/passport-http-custom-bearer/issues"
   },
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Jason McInerney",
+    "email": "wwwslinger@gmail.com",
+    "url": "http://github.com/wwwslinger/"
   },
   "licenses": [
     {
