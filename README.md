@@ -51,9 +51,9 @@ or a custom body field ``api_token``, or a custom query parameter ``api_token``:
 
 #### Authenticate Requests
 
-Use `passport.authenticate()`, specifying the `'bearer'` strategy (or your named strategy), to
+Use ``passport.authenticate()``, specifying the ``'custom-bearer'`` strategy (or your named strategy), to
 authenticate requests.  Requests containing bearer tokens do not require session
-support, so the `session` option can be set to `false`.
+support, so the ``session`` option can be set to ``false``.
 
 For example, as route middleware in an [Express](http://expressjs.com/)
 application for the above example strategy:
