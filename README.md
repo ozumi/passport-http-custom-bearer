@@ -7,7 +7,7 @@ HTTP Bearer authentication strategy for [Passport](http://passportjs.org/) using
 
 This module lets you authenticate HTTP requests using bearer tokens, as
 specified by [RFC 6750](http://tools.ietf.org/html/rfc6750), in your Node.js
-applications, using either the recommended "Authentication" header name or
+applications, using either the recommended ``Authorization`` header name or
 a custom name.  Bearer tokens are typically used protect API endpoints, and are
 often issued using OAuth 2.0.
 
