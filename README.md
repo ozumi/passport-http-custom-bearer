@@ -1,8 +1,6 @@
 # passport-http-custom-bearer
 
-[![Build](https://travis-ci.org/wwwslinger/passport-http-custom-bearer.png)](http://travis-ci.org/wwwslinger/passport-http-custom-bearer)
-[![Coverage](https://coveralls.io/repos/wwwslinger/passport-http-custom-bearer/badge.png)](https://coveralls.io/r/wwwslinger/passport-http-custom-bearer)
-[![Dependencies](https://david-dm.org/wwwslinger/passport-http-custom-bearer.png)](http://david-dm.org/wwwslinger/passport-http-custom-bearer)
+[![NPM version](https://img.shields.io/npm/v/passport-http-custom-bearer.svg)](https://www.npmjs.org/package/passport-http-custom-bearer) [![Dependency Status](https://david-dm.org/wwwslinger/passport-http-custom-bearer.png)](https://david-dm.org/wwwslinger/passport-http-custom-bearer)  ![MIT License](http://img.shields.io/badge/license-MIT-green.svg)
 
 
 HTTP Bearer authentication strategy for [Passport](http://passportjs.org/) using a custom header field.
