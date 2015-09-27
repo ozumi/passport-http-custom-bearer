@@ -31,8 +31,8 @@ typically including associated scope, which will be set by Passport at
 `req.authInfo` to be used by later middleware for authorization and access
 control.
 
-For example, to authenticate using a custom header 'X-APIAuth', or a custom
-body field 'api_token', or a custom query parameter 'api_token':
+For example, to authenticate using a custom header ``X-APIAuth``, or a custom
+body field ``api_token``, or a custom query parameter ``api_token``:
 
     var CustomBearerStrategy = require('passport-http-custom-bearer');
     passport.use('api-bearer', new CustomBearerStrategy(
